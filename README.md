@@ -6,7 +6,7 @@
 
 <p>Hello everyone, my name is Alex Gabriel Santiago Gonzalez and I m a software developer student at ITLA👨‍💻.</p>
 
-<p>-Career🐱‍🏍: Software Developement.</p>
+<p>-Career🎓: Software Developement.</p>
 <p>-Languagues📙: Spanish and English.</p>
 
 ------------------------------------------

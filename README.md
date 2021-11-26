@@ -1,12 +1,15 @@
 # About Me
 
-<img src = https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif width= "640" height="480"></img>
+<img src = https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif width= "320" height="220"></img>
 
-<p>Hello everyone, my name is Alex Santiago and I m a software developer student at ITLA👨‍💻.</p>
+<p>Hello everyone, my name is Alex Gabriel Santiago Gonzalez and I m a software developer student at ITLA👨‍💻.</p>
+
+<p>career: Software Developement</p>
+<p>Languagues: Spanish and English</p>
 
 ------------------------------------------
 # My favorite Phrase:
-<img src = https://cdn.dribbble.com/users/154752/screenshots/1244719/book.gif width = "640" height = "480"></img>
+<img src = https://cdn.dribbble.com/users/154752/screenshots/1244719/book.gif width = "320" height = "220"></img>
 
 <p>"Live and enjoy every single moment of your life".</p>
 

@@ -18,13 +18,13 @@
 <p align = "center">"Live and enjoy every single moment of your life".</p>
 
 ----------------------------------------
-# List of the programming languages that I know:
+# Programming languages that I know:
 
 <img src = https://i.blogs.es/53044d/java/1366_521.jpg width = "120" height = "80"></img>
 <img src = https://img.olhardigital.com.br/wp-content/uploads/2020/04/20200423030657-1131x450.jpg width = "120" height = "80"></img>
 
 ----------------------------------------
-# Database Management System that I know:
+# Database management system that I know:
 
 <img src = https://disenowebakus.net/imagenes/articulos/mysql.jpg width = "120" height = "80"></img>
 <img src = https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2018/02/microsoft_sqlserver.png? width = "120" height = "80"></img>

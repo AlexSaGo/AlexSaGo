@@ -20,7 +20,6 @@
 ----------------------------------------
 # Programming languages that I know:
 
-<img src = https://i.blogs.es/53044d/java/1366_521.jpg width = "120" height = "80"></img>
 <img src = https://img.olhardigital.com.br/wp-content/uploads/2020/04/20200423030657-1131x450.jpg width = "120" height = "80"></img>
 
 ----------------------------------------
@@ -35,6 +34,5 @@
 
 <img src = https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg width = "120" height = "80"></img>
 <img src = https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W_400x400.jpg width = "120" height = "80"></img>
-<img src = https://miracomosehace.com/wp-content/uploads/mch/logo-apache-netbeans_14033.jpg width = "120" height = "80"></img>
 <img src = https://www.programaenlinea.net/wp-content/uploads/2020/06/visual-studio-code-1170x658-1.png width = "120" height = "80"></img>
 
